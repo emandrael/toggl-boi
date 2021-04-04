@@ -10,7 +10,7 @@ from discord.ext import commands
 client = discord.Client()
 
 toggle_channel = 825147812466524180
-discordAPI = "ODI1MTEwMDkxODExNzgyNjU3.YF5Jpw.sb9hB4dGrck09M1HmFW_jV4FqWo"
+discordAPI = 
 
 toggler = Toggler
 
